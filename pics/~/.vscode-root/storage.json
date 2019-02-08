@@ -1,0 +1,31 @@
+{
+    "telemetry.machineId": "df48f61c64000bb2749a6b60037822afbc521c8bf43006d6fbdf8820d8c067ab",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/abrar/REACT/pics"
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/abrar/REACT/pics",
+                "external": "file:///home/abrar/REACT/pics",
+                "path": "/home/abrar/REACT/pics",
+                "scheme": "file"
+            },
+            "backupPath": "/home/abrar/REACT/pics/~/.vscode-root/Backups/7bfb001ceda6546af7773935a9c64fd2",
+            "uiState": {
+                "mode": 1,
+                "x": 966,
+                "y": 27,
+                "width": 959,
+                "height": 1053
+            }
+        }
+    }
+}
