@@ -1,0 +1,220 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/abrar/REACT
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :videos/src/index.js
+> git ls-files --stage -- videos/src/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git check-ignore -z --stdin
+> git show :videos/src/index.js
+> git ls-files --stage -- videos/src/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/index.js
+> git ls-files --stage -- videos/src/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/SearchBar.js
+> git ls-files --stage -- videos/src/components/
+> git check-ignore -z --stdin
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git check-ignore -z --stdin
+> git show :videos/public/index.html
+> git ls-files --stage -- videos/public/
+> git show :videos/src/components/SearchBar.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/public/index.html
+> git ls-files --stage -- videos/public/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/SearchBar.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/SearchBar.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :videos/src/apis/youtube.js
+> git ls-files --stage -- videos/src/apis/
+> git check-ignore -z --stdin
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/SearchBar.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/public/index.html
+> git ls-files --stage -- videos/public/
+> git show :videos/src/apis/youtube.js
+> git ls-files --stage -- videos/src/apis/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/SearchBar.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/public/index.html
+> git ls-files --stage -- videos/public/
+> git show :videos/src/apis/youtube.js
+> git ls-files --stage -- videos/src/apis/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git check-ignore -z --stdin
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.js
+> git ls-files --stage -- videos/src/components/
+> git check-ignore -z --stdin
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.css
+> git ls-files --stage -- videos/src/components/
+> git check-ignore -z --stdin
+> git show :videos/src/components/VideoItem.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.css
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git check-ignore -z --stdin
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoItem.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoList.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/VideoDetail.js
+> git ls-files --stage -- videos/src/components/
+> git show :videos/src/components/App.js
+> git ls-files --stage -- videos/src/components/

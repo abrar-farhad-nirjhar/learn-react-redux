@@ -1,0 +1,128 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/abrar/REACT
+> git status -z -u
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git check-ignore -z --stdin
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git check-ignore -z --stdin
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/App.css
+> git ls-files --stage -- songs/src/
+> git show :songs/.gitignore
+> git ls-files --stage -- songs/
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/App.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git check-ignore -z --stdin
+> git show :songs/public/index.html
+> git ls-files --stage -- songs/public/
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :songs/src/actions/index.js
+> git ls-files --stage -- songs/src/actions/
+> git check-ignore -z --stdin
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/actions/index.js
+> git ls-files --stage -- songs/src/actions/
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/reducers/index.js
+> git ls-files --stage -- songs/src/reducers/
+> git check-ignore -z --stdin
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/components/SongList.js
+> git ls-files --stage -- songs/src/components/
+> git check-ignore -z --stdin
+> git show :songs/src/App.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/components/SongList.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/components/SongList.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/components/SongList.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/components/SongList.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/components/SongList.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/index.js
+> git ls-files --stage -- songs/src/
+> git show :songs/src/components/SongList.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/components/SongList.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/actions/index.js
+> git ls-files --stage -- songs/src/actions/
+> git show :songs/src/components/SongDetail.js
+> git ls-files --stage -- songs/src/components/
+> git check-ignore -z --stdin
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/components/SongDetail.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/components/App.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/actions/index.js
+> git ls-files --stage -- songs/src/actions/
+> git show :songs/src/components/SongDetail.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/components/SongList.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/actions/index.js
+> git ls-files --stage -- songs/src/actions/
+> git show :songs/src/components/SongList.js
+> git ls-files --stage -- songs/src/components/
+> git show :songs/src/actions/index.js
+> git ls-files --stage -- songs/src/actions/
+> git show :songs/src/components/SongList.js
+> git ls-files --stage -- songs/src/components/

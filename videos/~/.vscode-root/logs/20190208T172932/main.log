@@ -1,0 +1,45 @@
+[2019-02-08 17:29:33.462] [main] [info] [storage] migrating global storage from localStorage into SQLite
+[2019-02-08 17:29:33.464] [main] [info] [storage] migrated global storage
+[2019-02-08 17:29:33.473] [main] [info] update#setState idle
+[2019-02-08 17:30:03.489] [main] [info] update#setState checking for updates
+[2019-02-08 17:30:03.492] [main] [info] update#setState idle
+[2019-02-08 18:30:03.501] [main] [info] update#setState checking for updates
+[2019-02-08 18:30:03.504] [main] [info] update#setState idle
+[2019-02-08 19:30:03.510] [main] [info] update#setState checking for updates
+[2019-02-08 19:30:03.512] [main] [info] update#setState idle
+[2019-02-08 20:30:03.514] [main] [info] update#setState checking for updates
+[2019-02-08 20:30:03.518] [main] [info] update#setState idle
+[2019-02-08 21:30:03.537] [main] [info] update#setState checking for updates
+[2019-02-08 21:30:03.540] [main] [info] update#setState idle
+[2019-02-08 22:30:03.567] [main] [info] update#setState checking for updates
+[2019-02-08 22:30:03.569] [main] [info] update#setState idle
+[2019-02-08 23:30:03.642] [main] [info] update#setState checking for updates
+[2019-02-08 23:30:03.695] [main] [info] update#setState idle
+[2019-02-09 00:30:03.722] [main] [info] update#setState checking for updates
+[2019-02-09 00:30:03.725] [main] [info] update#setState idle
+[2019-02-09 01:30:03.725] [main] [info] update#setState checking for updates
+[2019-02-09 01:30:03.729] [main] [info] update#setState idle
+[2019-02-09 02:30:03.731] [main] [info] update#setState checking for updates
+[2019-02-09 02:30:03.842] [main] [info] update#setState idle
+[2019-02-09 03:30:03.760] [main] [info] update#setState checking for updates
+[2019-02-09 03:30:03.764] [main] [info] update#setState idle
+[2019-02-09 04:30:03.856] [main] [info] update#setState checking for updates
+[2019-02-09 04:30:03.957] [main] [info] update#setState idle
+[2019-02-09 05:30:03.952] [main] [info] update#setState checking for updates
+[2019-02-09 05:30:03.956] [main] [info] update#setState idle
+[2019-02-09 06:30:03.976] [main] [info] update#setState checking for updates
+[2019-02-09 06:30:04.040] [main] [info] update#setState idle
+[2019-02-09 07:30:04.003] [main] [info] update#setState checking for updates
+[2019-02-09 07:30:04.040] [main] [info] update#setState idle
+[2019-02-09 08:30:04.067] [main] [info] update#setState checking for updates
+[2019-02-09 08:30:04.071] [main] [info] update#setState idle
+[2019-02-09 09:30:04.097] [main] [info] update#setState checking for updates
+[2019-02-09 09:30:04.222] [main] [info] update#setState idle
+[2019-02-09 10:30:04.273] [main] [info] update#setState checking for updates
+[2019-02-09 10:30:04.329] [main] [info] update#setState idle
+[2019-02-09 11:30:04.355] [main] [info] update#setState checking for updates
+[2019-02-09 11:30:04.359] [main] [info] update#setState idle
+[2019-02-09 12:30:04.382] [main] [info] update#setState checking for updates
+[2019-02-09 12:30:04.415] [main] [info] update#setState idle
+[2019-02-09 13:30:04.406] [main] [info] update#setState checking for updates
+[2019-02-09 13:30:04.409] [main] [info] update#setState idle
